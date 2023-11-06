@@ -38,9 +38,11 @@ We gathered the data from Nasdaq, a reputable source for stock market data. Our 
 
 ## Project Files
 - `MARKS ANALYSIS`: This Jupyter Notebook contains the code and analysis for comparative return analysis.
-- `NECOLES ANALYSIS`: This Jupyter Notebook contains the code and analysis for volume analysis.
-- `Price Risk Analysis, Moving Averages & Seasonal Patterns.ipynb`: This Jupyter Notebook contains the code and analysis for seasonal patterns analysis.
-- `QASIMS ANALYSIS`: This Jupyter Notebook contains the code and analysis for correlation analysis.
+- `Dividend-checkpoint.ipynb`: This Jupyter Notebook contains the code and analysis for dividend analysis.
+- `Split Analysis-checkpoint.ipynb`: This Jupyter Notebook contains the code and analysis for split analysis.
+- `Volume-checkpoint.ipynb`: This Jupyter Notebook contains the code and analysis for volume analysis.
+- `Price Risk Analysis, Moving Averages & Seasonal Patterns.ipynb`: This Jupyter Notebook contains the code and analysis for price risk analysis, moving averages, and seasonal patterns analysis.
+- `Nasdaq_Stock_Analysis_Qasim.ipynb`: This Jupyter Notebook contains the code and analysis for event impact analysis, adjusted price analysis and correlation analysis.
 
 ## Instructions
 You can access each aspect of our analysis by opening the corresponding Jupyter Notebook. Each notebook contains detailed explanations, code, and visualizations to help you understand the results.
