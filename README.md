@@ -33,7 +33,7 @@ Our analysis covers a wide range of areas, including but not limited to:
 12. **Correlation Analysis:** We compute the correlation between different stocks' movements. This can help in portfolio diversification by identifying stocks that move in opposite directions.
 
 ## Data Sources
-We gathered the data from Nasdaq, a reputable source for stock market data. Our data is up-to-date and covers the past three years.
+We gathered the data from Nasdaq, a reputable source for stock market data. Our data is up-to-date and covers a three year period.
 
 
 ## Project Files
