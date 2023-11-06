@@ -37,7 +37,7 @@ We gathered the data from Nasdaq, a reputable source for stock market data. Our 
 
 
 ## Project Files
-- `MARKS ANALYSIS`: This Jupyter Notebook contains the code and analysis for comparative return analysis.
+- `data-analysis-MJM`: This Jupyter Notebook contains the code and analysis for comparative return analysis.
 - `Dividend-checkpoint.ipynb`: This Jupyter Notebook contains the code and analysis for dividend analysis.
 - `Split Analysis-checkpoint.ipynb`: This Jupyter Notebook contains the code and analysis for split analysis.
 - `Volume-checkpoint.ipynb`: This Jupyter Notebook contains the code and analysis for volume analysis.
