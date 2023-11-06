@@ -37,18 +37,10 @@ We gathered the data from Nasdaq, a reputable source for stock market data. Our 
 
 
 ## Project Files
-- `basic_trends_analysis.ipynb`: This Jupyter Notebook contains the code and analysis for basic stock trends.
-- `volatility_analysis.ipynb`: This Jupyter Notebook contains the code and analysis for stock volatility.
-- `comparative_return_analysis.ipynb`: This Jupyter Notebook contains the code and analysis for comparative return analysis.
-- `dividend_analysis.ipynb`: This Jupyter Notebook contains the code and analysis for dividend analysis.
-- `split_analysis.ipynb`: This Jupyter Notebook contains the code and analysis for split analysis.
-- `volume_analysis.ipynb`: This Jupyter Notebook contains the code and analysis for volume analysis.
-- `price_range_analysis.ipynb`: This Jupyter Notebook contains the code and analysis for price range analysis.
-- `moving_averages_analysis.ipynb`: This Jupyter Notebook contains the code and analysis for moving averages.
-- `seasonal_patterns_analysis.ipynb`: This Jupyter Notebook contains the code and analysis for seasonal patterns analysis.
-- `event_impact_analysis.ipynb`: This Jupyter Notebook contains the code and analysis for event impact analysis.
-- `adjusted_prices_analysis.ipynb`: This Jupyter Notebook contains the code and analysis for adjusted prices analysis.
-- `correlation_analysis.ipynb`: This Jupyter Notebook contains the code and analysis for correlation analysis.
+- `MARKS ANALYSIS`: This Jupyter Notebook contains the code and analysis for comparative return analysis.
+- `NECOLES ANALYSIS`: This Jupyter Notebook contains the code and analysis for volume analysis.
+- `Price Risk Analysis, Moving Averages & Seasonal Patterns.ipynb`: This Jupyter Notebook contains the code and analysis for seasonal patterns analysis.
+- `QASIMS ANALYSIS`: This Jupyter Notebook contains the code and analysis for correlation analysis.
 
 ## Instructions
 You can access each aspect of our analysis by opening the corresponding Jupyter Notebook. Each notebook contains detailed explanations, code, and visualizations to help you understand the results.
